@@ -1,5 +1,5 @@
 bussiness process management
-Login Page
+Home Page
 ![Screenshot from 2023-11-22 10-57-49](https://github.com/Nicholauszoom/BPM4/assets/92658525/060bd4bb-48fd-41d1-b64c-37ebd520d2b5)
 
 Dashboard
